@@ -151,7 +151,7 @@ MonoBehaviour:
   pyramidBaseLength: 4
   pyramidHeight: 4
   material: {fileID: 2100000, guid: bf1bd287f3cadf94a9b8a49b5bd8b100, type: 2}
-  pyramidRotation: {x: 10, y: 10, z: 0}
+  pyramidRotation: {x: 361.1, y: -115.43, z: 96.12}
 --- !u!4 &48442041
 Transform:
   m_ObjectHideFlags: 0
@@ -324,7 +324,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1216274053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -341,7 +341,7 @@ MonoBehaviour:
   latitudeSegments: 12
   longitudeSegments: 12
   material: {fileID: 2100000, guid: bf1bd287f3cadf94a9b8a49b5bd8b100, type: 2}
-  sphereRotation: {x: 18, y: -6, z: 0}
+  sphereRotation: {x: 293.8, y: -154.29, z: 112.33}
 --- !u!4 &1216274054
 Transform:
   m_ObjectHideFlags: 0
@@ -391,7 +391,7 @@ MonoBehaviour:
   segments: 8
   material: {fileID: 2100000, guid: bf1bd287f3cadf94a9b8a49b5bd8b100, type: 2}
   cylinderCenter: {x: 10, y: 1, z: 10}
-  cylinderRotation: {x: 20, y: 10, z: 0}
+  cylinderRotation: {x: -192.2, y: -152.67, z: 128.72}
 --- !u!4 &1493927043
 Transform:
   m_ObjectHideFlags: 0
@@ -485,10 +485,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d66887c3ac226084685829e4a08cbdc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  length: 2
-  width: 1
   material: {fileID: 2100000, guid: bf1bd287f3cadf94a9b8a49b5bd8b100, type: 2}
-  rectangleRotation: {x: 0, y: 0, z: 0}
+  center: {x: 0, y: 0, z: 10}
+  length: 8
+  width: 4
+  depth: 0.5
+  focalLength: 5
+  rectangleRotation: {x: -41.35, y: 84.11, z: -55.48}
 --- !u!4 &1895456070
 Transform:
   m_ObjectHideFlags: 0
